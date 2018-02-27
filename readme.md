@@ -1,0 +1,1 @@
+Json object is created and data is printed on browser in the json format
